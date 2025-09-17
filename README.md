@@ -35,6 +35,7 @@ It manages student records with password protection and provides features like a
 ```
 StudentDatabase-C/
 │── main.c # Source code
+│── Menu.jpg # Preview Screenshot
 │── Student_database.txt # Stores student records (binary format, not human-readable)
 │── password.txt # Stores login password
 │── README.md # Project documentation
