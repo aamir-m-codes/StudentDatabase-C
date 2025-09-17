@@ -12,6 +12,11 @@ It manages student records with password protection and provides features like a
 
 </div>
 
+## 🖼️ Preview
+![Sample Ouput Screenshot](Menu.jpg)
+
+---
+
 ## 🚀 Features
 - 🔑 Password protected login system  
 - ➕ Add new student records  
